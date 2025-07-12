@@ -1,5 +1,11 @@
 # Dots Menu
 
+## Demo
+
+See the Dots Menu widget in action:
+
+[▶️ Watch the demo video](https://github.com/NeatFastro/dots_menu/blob/main/resources/2025-07-12%2021-00-17.mov)
+
 A Flutter widget that provides a beautiful, animated "dots menu" for actions, supporting both horizontal and vertical layouts. Easily customizable, it allows you to present a compact menu that expands to reveal action icons—perfect for contextual menus or action bars.
 
 ## Motivation
