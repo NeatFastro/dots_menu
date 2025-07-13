@@ -9,3 +9,7 @@
 ## 1.0.2
 
 * Fixed the demo gif
+
+## 1.0.2
+
+* This time really fixed the demo gif
