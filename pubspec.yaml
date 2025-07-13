@@ -1,6 +1,6 @@
 name: dots_menu
 description: "A customizable, animated Flutter widget that provides a modern dots menu for contextual actions. Easily integrates into your app, supports both horizontal and vertical layouts, and allows for flexible action icons and smooth animations."
-version: 1.0.0
+version: 1.0.2
 homepage: https://statelysoft.com
 repository: https://github.com/NeatFastro/dots_menu
 
